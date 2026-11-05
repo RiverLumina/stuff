@@ -1,0 +1,31 @@
+﻿  main.cpp
+  neverlose.cpp
+  fix_dump.cpp
+C:\Users\sp1ritas\Desktop\faggot\neverlose\fix_dump.cpp(119,24): warning C4309: '=': truncation of constant value
+C:\Users\sp1ritas\Desktop\faggot\neverlose\fix_dump.cpp(120,24): warning C4309: '=': truncation of constant value
+C:\Users\sp1ritas\Desktop\faggot\neverlose\fix_dump.cpp(126,24): warning C4309: '=': truncation of constant value
+C:\Users\sp1ritas\Desktop\faggot\neverlose\fix_dump.cpp(127,24): warning C4309: '=': truncation of constant value
+  setup_hooks.cpp
+  HookFn.cpp
+C:\Users\sp1ritas\Desktop\faggot\neverlose\HookFn.cpp(53,46): warning C4309: '=': truncation of constant value
+  entry.cpp
+  fix_interfaces.cpp
+  fix_cvars.cpp
+  fix_signatures.cpp
+  FindPattern.cpp
+C:\Users\sp1ritas\Desktop\faggot\neverlose\FindPattern.cpp(17,33): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+  mem_dispatcher.cpp
+  sha256.cpp
+  fix_imports.cpp
+  crypto_capture.cpp
+  Requestor.cpp
+  spoof.cpp
+  spoof_cpuid.cpp
+  spoof_kusd.cpp
+  spoof_peb.cpp
+  VEH.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 864 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  neverlose.vcxproj -> C:\Users\sp1ritas\Desktop\faggot\Release\neverlose.dll
